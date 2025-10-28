@@ -1,6 +1,6 @@
 # Bioconductor-for-Genomic-Data-Science--R
 
-## Bioconductor-for-Genomic-Data-Science---HTML
+## Bioconductor-for-Genomic-Data-Science
 
 This repository covers an introduction to the Bioconductor project (http://bioconductor.org/) including how to install and use Bioconductor software. It is a review of common data structures, including __ExpressionSets__, __SummarizedExperiment__ and __GRanges__ used across several types of analyses. Several popular packages for analysis and annotation of your data will be covered, including packages such as __GenomicRanges__, __biomaRt__, __rtracklayer__, __AnnotationHub__ and others.
 
